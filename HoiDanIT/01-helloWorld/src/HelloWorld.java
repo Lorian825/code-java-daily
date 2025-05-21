@@ -1,7 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
 
-
 //        * Random number, use cast(ep kieu) tu double -> integer
 //        int random = (int) (Math.random() * 101);
 //        System.out.println(random);
